@@ -26,7 +26,7 @@ Simulate the famous **Monty Hall Problem**, where a contestant chooses between t
    ```
 2. Run the simulation:
    ```bash
-   python monty_hall.py
+   python monty_hall_simulations.py
    ```
 
 ---
